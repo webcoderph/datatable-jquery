@@ -1,7 +1,8 @@
-# README
+# JQUERY DATABLES RAILS
+ 
 This is an example on how to use jquery-datables-rails on your rails project.
 
-###Source
+### Source
 [rweng/jquery-datatables-rails](https://github.com/rweng/jquery-datatables-rails)
 
 * Ruby version
